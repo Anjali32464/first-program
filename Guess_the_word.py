@@ -13,6 +13,7 @@ while i>0:
             if word[j]==x:
                 guess[j]=x
         print("Great Guess! ")
+        print("guessed word:",word)
         print()
                 
     else:
