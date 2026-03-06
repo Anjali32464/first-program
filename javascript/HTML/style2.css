@@ -1,0 +1,39 @@
+
+button {
+  margin: 50px 0 50px 0;
+  font-size: 20px;
+  border-radius: 30px;
+}
+img {
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+  background-color: aliceblue;
+  border-radius: 200px 200px 200px 200px;
+  border: solid 2px red;
+}
+h1 {
+  margin-left: 790px;
+  height: 70px;
+  width: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 0 0 300px 300px;
+  background-color:tomato;
+  font-style: italic;
+  color: maroon;
+}
+body {
+  text-align: center;
+  background-color:salmon;
+}
+p {
+  font-size: 30px;
+  margin-top: 0;
+}
+#isRec{
+    background-color: darkslateblue;
+}
+#notRec{
+    background-color:seagreen ;
+}
